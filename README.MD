@@ -2,7 +2,8 @@
 
 ### Cloning & Set up
 
-```git clone https://github.com/somgitrep/myfirstnodeapp.git
+``` sh
+git clone https://github.com/somgitrep/myfirstnodeapp.git
 cd myfirstnodeapp
 npm install
 npm run start

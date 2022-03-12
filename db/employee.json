@@ -1,0 +1,28 @@
+{
+    "emp": [
+        {
+            "ID": 100,
+            "first_name": "Somnath",
+            "last_name": "Paul",
+            "role": "ABAP Developer"
+        },
+        {
+            "ID": 200,
+            "first_name": "John",
+            "last_name": "Doe",
+            "role": "UX Consultant"
+        },
+        {
+            "ID": 300,
+            "first_name": "Sijo",
+            "last_name": "John",
+            "role": "CRM Lead"
+        },
+        {
+            "ID": 300,
+            "first_name": "Debanjan",
+            "last_name": "Ghosh",
+            "role": "UI5/Fiori Lead"
+        }
+    ]
+}
